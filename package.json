@@ -1,0 +1,28 @@
+{
+  "name": "workshop-node",
+  "version": "1.0.0",
+  "description": "El workshop del Aldo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoDM2943/nodemeli-workshop.git"
+  },
+  "keywords": [
+    "node",
+    "workshop",
+    "meli"
+  ],
+  "author": "Bruno Damasceno Martins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoDM2943/nodemeli-workshop/issues"
+  },
+  "homepage": "https://github.com/BrunoDM2943/nodemeli-workshop#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
